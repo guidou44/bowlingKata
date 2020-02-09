@@ -1,2 +1,3 @@
 # bowlingKata
-famous bowling game console app
+
+bowling game console app
